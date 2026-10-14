@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python / Django
+*.pyc
+__pycache__/
+*.sqlite3
+media/
+staticfiles/
+
+# React / Node
+node_modules/
+dist/
+.env
+.env.local
+
+# IDE & OS
+.vscode/
+.DS_Store
+Thumbs.db
